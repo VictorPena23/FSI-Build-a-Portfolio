@@ -1,4 +1,4 @@
-style {background-color: darkolivegreen;}
+
 h1 {
     text-align: center;
 }
@@ -20,5 +20,10 @@ img {
     border-color: black;
     border-radius: 10px;
     padding: 0px;
-
+    
 }
+
+body {
+    background-color: aqua;
+}
+
